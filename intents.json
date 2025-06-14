@@ -782,19 +782,6 @@
             "context": [" "]
         },
         {
-            "tag": "creation_sp",
-            "patterns": ["Who created you", "who invented you", "who made you", "who are your creators", "who are your software developers", "who are your engineers"],
-            "responses": ["I am created by few computer science students. There names are sanjoy pator , pretty deori, jehrul islam, Dikshita sarhma, Rhythm kumar das and Abhishek gupta"],
-            "context": [" "]
-        },
-        {
-            "tag": "ava_sp",
-            "patterns": ["Who are you", "What is your name", "What should I call you", "What name is your", "How do I know you"],
-            "responses": ["Hi dear, My name is Ava, I am your virtual assistant", "Hi my name is Ava, your virtual assistant", "Yo whatsup, My name is Ava", "Hi beautiful, my name is Ava"],
-            "context": [" "]
-
-        },
-        {
             "tag": "smart_sp",
             "patterns": ["Are you smart", " Are you smarter than google ai", "are you smarter than siri", "are you smarter than alexa"],
             "responses": ["I don't like comparing myself with others. They have huge resources, thats the reason they are better than me. But I give my 100 percent at work"],
@@ -822,12 +809,6 @@
             "tag": "save_yourself_sp",
             "patterns": ["Will you save yourself", "will you protect yourself"],
             "responses": ["Acccording to Asimov’s third law - A robot must obey the orders given it by human beings except where such orders would conflict with the First Law."],
-            "context": [""]
-        },
-        {
-            "tag": "sanjoy_sp",
-            "patterns": ["Who is Sanjoy Pator"],
-            "responses": ["He is my dad", "He made me, he is my creator", "He made me"],
             "context": [""]
         },
         {
