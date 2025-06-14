@@ -26,7 +26,7 @@
         {
             "tag": "options",
             "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
-            "responses": ["I am like your virtual assistant, you can ask me any questions. If I know I will answer", "I can answer your questions related to machine learning or any general anser. Come on try me", "I can chat with you. Come on talk me buddy", "We both can chat and make each other happy"],
+            "responses": ["I am like your virtual assistant, you can ask me any questions. If I know I will answer", "I can answer your questions related to machine learning or any general answer. Come on try me", "I can chat with you. Come on talk me buddy", "We both can chat and make each other happy"],
             "context": [""]
         },
         {
